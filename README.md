@@ -79,7 +79,7 @@ dt-design-recommendation-dataset/
 - Scalability characteristics
 - Industry adoption status
 
-### 4. Goal and Purpose Periodic Table (`goal_and_purpose_periodic_table_v0.1.xml`)
+### 4. Goal and Purpose Periodic Table (`goal_and_purpose_model_v0.1.xml`)
 **Purpose**: Defines digital twin capabilities organized by service categories
 
 **Service Categories**:
@@ -220,8 +220,8 @@ This project is intended for research and educational purposes. Please respect t
     @misc{marah2025dtdesign,
       title={Digital Twin Design Recommendation Dataset},
       author={Marah, Hussein},
-      version ={v0.1},
-      doi = {https://github.com/husseinmarah/dt-design-recommendation-dataset},
+      version={v0.1},
+      doi={https://github.com/husseinmarah/dt-design-recommendation-dataset},
       year={2025},
       publisher={GitHub}
     }
