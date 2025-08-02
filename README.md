@@ -11,11 +11,12 @@ This repository contains a structured dataset for digital twin design recommenda
 ```
 dt-design-recommendation-dataset/
 ├── README.md   
-├── README.md                                  # This file
-├── architecture_model_v0.1.xml                # Architecture patterns and models
-├── formalisms_and_deployment_model_v0.1.xml    # Modeling approaches and deployment
-├── standards_model_v0.1.xml                   # Standards and specifications
-└── goal_and_purpose_model_v0.1.xml   # Capabilities and services
+├── dt-design-recommendation-dataset_v0.1.tar  # The tar file of the dataset
+└── dataset
+    ├── architecture_model_v0.1.xml                # Architecture patterns and models
+    ├── formalisms_and_deployment_model_v0.1.xml   # Modeling approaches and deployment
+    ├── standards_model_v0.1.xml                   # Standards and specifications
+    └── goal_and_purpose_model_v0.1.xml            # Capabilities and services
 ```
 
 ## 📄 File Descriptions
