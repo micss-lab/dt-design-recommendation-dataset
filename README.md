@@ -214,6 +214,17 @@ We welcome contributions to improve and extend this framework:
 
 This project is intended for research and educational purposes. Please respect the intellectual property rights of referenced standards organizations and framework developers.
 
+## 📚 How to Cite
+
+    @misc{marah2025dtdesign,
+      title={Digital Twin Design Recommendation Dataset},
+      author={Marah, Hussein},
+      version ={v0.1},
+      doi = {https://github.com/husseinmarah/dt-design-recommendation-dataset},
+      year={2025},
+      publisher={GitHub}
+    }
+
 ## 📧 Contact
 
 For questions, suggestions, or collaboration opportunities, please reach out through the repository's issue tracker.
@@ -222,4 +233,4 @@ For questions, suggestions, or collaboration opportunities, please reach out thr
 
 **Version**: 0.1  
 **Last Updated**: August 2, 2025  
-**Maintained by**: Hussein Marah - Universiteit Antwerpen
+**Maintained by**: Hussein Marah
