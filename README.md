@@ -15,8 +15,8 @@ dt-design-recommendation-dataset/
 └── dataset
     ├── goal_and_purpose_model_v0.1.xml            # Capabilities, services and goals 
     ├── architecture_model_v0.1.xml                # Architecture patterns, models and choices
-    ├── standards_model_v0.1.xml                   # Standards and specifications
-    └── formalisms_and_deployment_model_v0.1.xml   # Modeling approaches and deployment
+    ├── formalisms_and_deployment_model_v0.1.xml   # Modeling approaches and deployment
+    └── standards_model_v0.1.xml                   # Standards and specifications
 ```
 
 ## 📄 File Descriptions
