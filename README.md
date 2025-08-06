@@ -79,23 +79,7 @@ dt-design-recommendation-dataset/
 - Cross-domain interoperability
 - Lifecycle management
 
-### 3. Standards Model (`standards_model_v0.1.xml`)
-**Purpose**: Comprehensive collection of relevant standards and specifications
-
-**Standard Categories**:
-- **Simulation Standards**: FMI, HLA (IEEE 1516), DSEEP (IEEE 1730), DIS (IEEE 1278), SSP
-- **Modeling Standards**: SysML (ISO/IEC 19514), Modelica, UML, BPMN, ArchiMate
-- **Physical Entities Standards**: IEEE 1451, ISO 23247 series, IEC 61131, OPC UA (IEC 62541)
-- **Additional Categories**: Virtual Entities, Data, Connection, Services, Architecture, and Engineering Standards
-
-**Standard Attributes**:
-- Purpose and application domain
-- Interoperability level
-- Implementation complexity
-- Scalability characteristics
-- Industry adoption status
-
-### 4. Formalisms and Deployment Model (`formalisms_and_deployment_model_v0.1.xml`)
+### 3. Formalisms and Deployment Model (`formalisms_and_deployment_model_v0.1.xml`)
 **Purpose**: Covers modeling methodologies, simulation approaches, and deployment considerations
 
 **Key Sections**:
@@ -119,6 +103,22 @@ dt-design-recommendation-dataset/
 - **Twinning Types**: Different approaches to digital twin implementation
 - **Frameworks**: Comprehensive twinning frameworks
 - **Data Integration**: Methods and approaches for data handling
+
+### 4. Standards Model (`standards_model_v0.1.xml`)
+**Purpose**: Comprehensive collection of relevant standards and specifications
+
+**Standard Categories**:
+- **Simulation Standards**: FMI, HLA (IEEE 1516), DSEEP (IEEE 1730), DIS (IEEE 1278), SSP
+- **Modeling Standards**: SysML (ISO/IEC 19514), Modelica, UML, BPMN, ArchiMate
+- **Physical Entities Standards**: IEEE 1451, ISO 23247 series, IEC 61131, OPC UA (IEC 62541)
+- **Additional Categories**: Virtual Entities, Data, Connection, Services, Architecture, and Engineering Standards
+
+**Standard Attributes**:
+- Purpose and application domain
+- Interoperability level
+- Implementation complexity
+- Scalability characteristics
+- Industry adoption status
 
 ## 🎯 Use Cases
 
@@ -161,11 +161,11 @@ Each component is evaluated across multiple dimensions:
 ## 📈 Getting Started
 
 ### Basic Usage
-1. **Identify Your Domain**: Determine your application domain and requirements
-2. **Plan Capabilities**: Define required capabilities using `goal_and_purpose_model_v0.1.xml`
-3. **Select Architecture**: Choose the most appropriate architecture from `architecture_model_v0.1.xml`
+0. **Identify Your Domain**: Determine your application domain and requirements
+1. **Plan Capabilities**: Define required capabilities using `goal_and_purpose_model_v0.1.xml`
+2. **Select Architecture**: Choose the most appropriate architecture from `architecture_model_v0.1.xml`
+3. **Define Modeling Approach**: Select modeling methodologies, formalisms and deployment tools and frameworks from `formalisms_and_deployment_model_v0.1.xml`
 4. **Ensure Standards Compliance**: Check relevant standards in `standards_model_v0.1.xml`
-5. **Define Modeling Approach**: Select modeling methodologies, formalisms and deployment tools and frameworks from `formalisms_and_deployment_model_v0.1.xml`
 
 ### Example Workflow
 ```
@@ -179,15 +179,16 @@ Manufacturing Digital Twin Project
 ├── Architecture Selection
 │   └── Reference Architecture Model → ISO 23247 or Platform Stack Framework
 │
-├── Standards Compliance
-│   ├── Simulation → FMI for model exchange
-│   ├── Physical Entities → ISO 23247 series
-│   └── Communication → IEC 62541 (OPC UA)
+├── Formalisms and Modeling Tools
+│   ├── System Nature → Hybrid (Discrete + Continuous)
+│   ├── Tools → Simulink, Modelica, or AnyLogic
+│   └── Communication → OPC UA + Industrial Ethernet
 │
-└── Modeling Approach
-    ├── System Nature → Hybrid (Discrete + Continuous)
-    ├── Tools → Simulink, Modelica, or AnyLogic
-    └── Communication → OPC UA + Industrial Ethernet
+└── Standards Compliance
+    ├── Simulation → FMI for model exchange
+    ├── Physical Entities → ISO 23247 series
+    └── Communication → IEC 62541 (OPC UA)
+
 ```
 
 ## 🤝 Contributing
