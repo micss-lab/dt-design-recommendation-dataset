@@ -13,10 +13,10 @@ dt-design-recommendation-dataset/
 ├── README.md   
 ├── dt-design-recommendation-dataset_v0.1.tar  # The tar file of the dataset
 └── dataset
-    ├── architecture_model_v0.1.xml                # Architecture patterns and models
-    ├── formalisms_and_deployment_model_v0.1.xml   # Modeling approaches and deployment
+    ├── goal_and_purpose_model_v0.1.xml            # Capabilities, services and goals 
+    ├── architecture_model_v0.1.xml                # Architecture patterns, models and choices
     ├── standards_model_v0.1.xml                   # Standards and specifications
-    └── goal_and_purpose_model_v0.1.xml            # Capabilities and services
+    └── formalisms_and_deployment_model_v0.1.xml   # Modeling approaches and deployment
 ```
 
 ## 📄 File Descriptions
