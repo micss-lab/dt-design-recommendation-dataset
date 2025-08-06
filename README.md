@@ -1,6 +1,6 @@
 # Digital Twin Design Recommendation Dataset
 
-A comprehensive XML-based dataset for digital twin design recommendations. This dataset is used by a framework to provide a structured guidance for Digital Twins design for cyber-physical systems (CPS) and IoT system implementation.
+A comprehensive XML-based dataset for digital twin design recommendations. This dataset is used in a framework to provide structured guidance and smart decision-making for Digital Twins design for cyber-physical systems (CPS) and IoT system implementation.
 
 ## 📋 Overview
 
