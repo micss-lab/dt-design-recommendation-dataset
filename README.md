@@ -225,7 +225,7 @@ This project is intended for research and educational purposes. Please respect t
       title={Digital Twin Design Recommendation Dataset},
       author={Marah, Hussein},
       version={v0.1},
-      doi={https://github.com/husseinmarah/dt-design-recommendation-dataset},
+      doi={https://doi.org/10.5281/zenodo.16729488},
       year={2025},
       publisher={GitHub}
     }
