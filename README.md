@@ -205,7 +205,7 @@ We welcome contributions to improve and extend this framework:
 - [Foundations of Multi-Paradigm Modelling for Cyber-Physical Systems](https://library.oapen.org/handle/20.500.12657/37711)
 - [The Engineering of Digital Twins](https://link.springer.com/content/pdf/10.1007/978-3-031-66719-0.pdf)
 - [Theory of modeling and simulation](https://www.sciencedirect.com/book/9780128133705/theory-of-modeling-and-simulation).
-- Various IEEE, ISO, and IEC standards as referenced in the XML files
+- IEEE, ISO, and IEC as referenced in the XML files
 
 ## 📄 License
 
