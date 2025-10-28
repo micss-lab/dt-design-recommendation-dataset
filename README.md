@@ -226,8 +226,7 @@ This project is intended for research and educational purposes. Please respect t
       author={Marah, Hussein},
       version={v0.1},
       doi={https://doi.org/10.5281/zenodo.16729488},
-      year={2025},
-      publisher={GitHub}
+      year={2025}
     }
 
 ## 📧 Contact
